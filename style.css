@@ -70,7 +70,7 @@ background-color: rgb(250, 231, 231);
 .rightnav{
 width: 300px;
 margin-left: 0px;
-padding: 25px;
+padding: 18px;
 background-color: rgb(36, 35, 35);
 cursor: pointer;
 }
@@ -95,7 +95,7 @@ cursor: pointer;
     padding: 180px;
     display: flex;
     align-items: center;
-    height: 200px;
+    height: 20px;
     justify-content: center;
     background-color: #00000059;
     padding-top: 140px;
@@ -120,12 +120,14 @@ h2{
 }
 .mid2{
     text-align: center;
-    padding: 60px;
+    padding: 180px;
     display: flex;
     align-items: center;
-    margin: 160px;
-    flex-direction: row-reverse;
+    height: 200px;
     justify-content: center;
+    background-color: #00000059;
+    padding-top: 140px;
+    height: 21px;
 }
 .mid2s{
     text-align: left;
@@ -133,12 +135,13 @@ h2{
 }
 .mid3{
     text-align: center;
-    padding: 60px;
+    padding: 180px;
     display: flex;
     align-items: center;
-    margin: 160px;
-    height: 20px;
+    
     justify-content: center;
+    background-color: #00000059;
+    padding-top: 140px;
 
 }
 .mid3s{
@@ -221,3 +224,4 @@ form {
     .logo2{
         background-color: transparent;
     }
+}
